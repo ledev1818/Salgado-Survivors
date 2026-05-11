@@ -7,3 +7,5 @@ Thomas Moller
 Explicação de como rodar o jogo:
 
 Vídeo:
+
+Partes do código geradas por IA:
